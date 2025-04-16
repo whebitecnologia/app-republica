@@ -1,6 +1,6 @@
 // Estudantes e despesas pré-cadastradas
 const estudantesPreCadastrados = [
-    "Ana",
+    "Beatriz",
     "Luiza",
     "Mariana"    
 ];
@@ -10,6 +10,7 @@ const despesasPreCadastradas = [
     "Sabesp",
     "Internet",
     "Energia",
+    "Mercado",
     "Condomínio",
     "Faxina"
 ];
